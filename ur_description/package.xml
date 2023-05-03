@@ -9,7 +9,7 @@
   <author>Jegathesan S</author>
   <maintainer email="nullbyte.in@gmail.com">Jegathesan S</maintainer>
 
-  <license>BSD</license>
+  <license>MIT</license>
 
   <url type="website">http://wiki.ros.org/ur_description</url>
 
